@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="RestAssuredFundooPushTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-12-30T13:33:49" hostname="admin1-desktop" time="1.47">
+  <properties/>
+  <testcase name="givenUser_LogOutWithValidToken_ShouldReturnLogoutSuccessfully" classname="RestAssuredFundooPushTest" time="1.47"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
