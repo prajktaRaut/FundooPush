@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="RestAssuredFundooPushTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-12-30T13:33:49" hostname="admin1-desktop" time="1.47">
+<testsuite name="RestAssuredFundooPushTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-12-31T13:57:53" hostname="admin1-desktop" time="1.231">
   <properties/>
-  <testcase name="givenUser_LogOutWithValidToken_ShouldReturnLogoutSuccessfully" classname="RestAssuredFundooPushTest" time="1.47"/>
-  <system-out><![CDATA[]]></system-out>
+  <testcase name="givenUser_WhenPerformOperationOnRemoveHashTagFromJob_ShouldReturnJobsHashtagAddedSuccessfully" classname="RestAssuredFundooPushTest" time="1.231"/>
+  <system-out><![CDATA[{"status":true,"message":"Jobs hashtag removed successfully","data":{"n":1,"nModified":0,"ok":1}}
+]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
